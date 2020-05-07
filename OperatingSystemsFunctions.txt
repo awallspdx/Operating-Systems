@@ -1,0 +1,1 @@
+Process management is one operating system function.  It has a running list of all the processes running at one time and chooses which process gets the processor when a and for how long.  Once a process is done; it is removed from the running list.  This allows for multiple programs to be run simultaneously.
